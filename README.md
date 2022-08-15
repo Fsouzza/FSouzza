@@ -1,7 +1,7 @@
 ### Olá, sou o Filipe Alex de Souza, assistente administrativo 👋
 
 - 🔭 Atualmente estou trabalhando com administração
-- 🌱 Estudando HTML + CSS + Java + Php
+- 🌱 Estudando HTML | CSS | Javascript | ReactJS | typescript
 - 😄 Pronouns: ele
 
 
